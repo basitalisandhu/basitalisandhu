@@ -1,0 +1,48 @@
+name: Update profile README
+
+on:
+  schedule:
+    # 05:17 UTC daily. Off the hour to avoid the queue at :00.
+    - cron: "17 5 * * *"
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/update_readme.py
+      - .github/workflows/update-profile.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Refresh latest releases
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Refresh releases block
+        env:
+          # Raises the API rate limit; the script also works without it.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_readme.py
+
+      - name: Commit if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh latest releases"
+          file_pattern: README.md
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
