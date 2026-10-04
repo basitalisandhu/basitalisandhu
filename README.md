@@ -9,6 +9,7 @@ I am a cloud security and AI agent security engineer. I build tooling for AWS gu
 | [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) | AWS security skills for Claude Code: account audit, SCP guardrails, blast-radius landing zones, IAM least privilege, Security Hub triage. |
 | [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | Repository engineering skills for Claude Code: docs checked against the code, audits where every finding cites a line, agent context files that say only what code cannot. |
 | [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | Microsoft 365 governance skills for Claude Code: Entra ID posture review, Intune baseline check, Graph permission preflight, Teams and group sprawl, access review pack. |
+| [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | Compliance evidence skills for Claude Code: integrity-checked evidence packs from GitHub, AWS and Microsoft 365 exports, mapped to ISO 27001 and SOC 2, with narratives that cite evidence or say not assessable. |
 | [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | Claude Code skills for everyday development: code review, refactoring, debugging, CI and containers, data and APIs, documentation and security basics. |
 | [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | Claude Code security plugin and agent skills for securing LLM agents: threat modelling, configuration audits, prompt injection review, MCP server review, incident lookup. |
 
@@ -32,6 +33,8 @@ I am a cloud security and AI agent security engineer. I build tooling for AWS gu
 | [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) | Semgrep rules for AI agent code in Python, TypeScript and JavaScript. |
 | [security-actions](https://github.com/basitalisandhu/security-actions) | GitHub Actions for AI agent and supply chain security checks. |
 | [cc-hooks](https://github.com/basitalisandhu/cc-hooks) | Typed Python SDK and offline test runner for Claude Code hooks. |
+| [cc-plugin-lock](https://github.com/basitalisandhu/cc-plugin-lock) | Lock file for Claude Code plugins: pins plugins and skills to content hashes and verifies them before load. |
+| [claude-perm-sim](https://github.com/basitalisandhu/claude-perm-sim) | Claude Code permission rule simulator: shows which rule decides a tool call and where a rule set is permissive. |
 | [llms-txt-gen](https://github.com/basitalisandhu/llms-txt-gen) | Generate llms.txt for any docs site or repository. |
 
 ## Data and lists
@@ -51,6 +54,7 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) | [v0.2.0](https://github.com/basitalisandhu/aws-security-skills/releases/tag/v0.2.0) | 2026-10-04 |
 | [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | [v0.2.0](https://github.com/basitalisandhu/repo-engineering-skills/releases/tag/v0.2.0) | 2026-10-04 |
 | [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | [v0.2.0](https://github.com/basitalisandhu/m365-governance-skills/releases/tag/v0.2.0) | 2026-10-04 |
+| [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | [v0.1.0](https://github.com/basitalisandhu/compliance-evidence-skills/releases/tag/v0.1.0) | 2026-10-04 |
 | [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | [v0.1.0](https://github.com/basitalisandhu/claude-dev-skills/releases/tag/v0.1.0) | 2026-10-04 |
 | [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | [v0.1.0](https://github.com/basitalisandhu/agent-security-skills/releases/tag/v0.1.0) | 2026-10-04 |
 | [dev-mcp-servers](https://github.com/basitalisandhu/dev-mcp-servers) | [v0.1.0](https://github.com/basitalisandhu/dev-mcp-servers/releases/tag/v0.1.0) | 2026-10-04 |
@@ -64,6 +68,8 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) | [v0.1.0](https://github.com/basitalisandhu/agentic-semgrep-rules/releases/tag/v0.1.0) | 2026-10-04 |
 | [security-actions](https://github.com/basitalisandhu/security-actions) | [v0.1.0](https://github.com/basitalisandhu/security-actions/releases/tag/v0.1.0) | 2026-10-04 |
 | [cc-hooks](https://github.com/basitalisandhu/cc-hooks) | [v0.1.0](https://github.com/basitalisandhu/cc-hooks/releases/tag/v0.1.0) | 2026-10-04 |
+| [cc-plugin-lock](https://github.com/basitalisandhu/cc-plugin-lock) | [v0.1.0](https://github.com/basitalisandhu/cc-plugin-lock/releases/tag/v0.1.0) | 2026-10-04 |
+| [claude-perm-sim](https://github.com/basitalisandhu/claude-perm-sim) | [v0.1.0](https://github.com/basitalisandhu/claude-perm-sim/releases/tag/v0.1.0) | 2026-10-04 |
 | [llms-txt-gen](https://github.com/basitalisandhu/llms-txt-gen) | [v0.1.0](https://github.com/basitalisandhu/llms-txt-gen/releases/tag/v0.1.0) | 2026-10-04 |
 | [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) | no public release yet | |
 | [awesome-agent-security](https://github.com/basitalisandhu/awesome-agent-security) | no public release yet | |
