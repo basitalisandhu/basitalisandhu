@@ -40,7 +40,7 @@ jobs:
         run: python3 scripts/update_readme.py
 
       - name: Commit if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: refresh latest releases"
           file_pattern: README.md
