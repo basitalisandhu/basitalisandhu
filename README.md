@@ -6,12 +6,15 @@ I am a cloud security and AI agent security engineer. I build tooling for AWS gu
 
 | Repository | What it is |
 |---|---|
+| [claude-skills](https://github.com/basitalisandhu/claude-skills) | Every skill I maintain, in one repository: 87 skills in 13 plugins from the packs below, one marketplace, one install script, synced daily. |
 | [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) | AWS security skills for Claude Code: account audit, SCP guardrails, blast-radius landing zones, IAM least privilege, Security Hub triage. |
 | [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | Repository engineering skills for Claude Code: docs checked against the code, audits where every finding cites a line, agent context files that say only what code cannot. |
 | [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | Microsoft 365 governance skills for Claude Code: Entra ID posture review, Intune baseline check, Graph permission preflight, Teams and group sprawl, access review pack. |
 | [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | Compliance evidence skills for Claude Code: integrity-checked evidence packs from GitHub, AWS and Microsoft 365 exports, mapped to ISO 27001 and SOC 2, with narratives that cite evidence or say not assessable. |
 | [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | Claude Code skills for everyday development: code review, refactoring, debugging, CI and containers, data and APIs, documentation and security basics. |
 | [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | Claude Code security plugin and agent skills for securing LLM agents: threat modelling, configuration audits, prompt injection review, MCP server review, incident lookup. |
+| [github-manager-skills](https://github.com/basitalisandhu/github-manager-skills) | Claude Code skills for engineering managers that compute from exported GitHub data: stuck-PR and review-queue digest, iteration report, blameless postmortem timeline. |
+| [mac-maintenance-skills](https://github.com/basitalisandhu/mac-maintenance-skills) | Claude Code skills for cleaning up and speeding up a Mac: read-only survey first, safe tier removes only what programs recreate, leftovers and duplicate finders. |
 
 ## MCP tooling
 
