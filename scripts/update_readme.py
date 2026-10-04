@@ -34,7 +34,7 @@ REPOS = [
     "agentic-semgrep-rules",
     "agent-threat-model",
     "agent-security-skills",
-    "hisar",
+    "masoon",
 ]
 START = "<!-- RELEASES:START -->"
 END = "<!-- RELEASES:END -->"

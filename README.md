@@ -2,9 +2,9 @@
 
 **Software engineer working on AI agent security. I build open-source trust infrastructure for AI agents: who they are, what they may touch, and proof of what they did.**
 
-In one sentence each: [hisar-broker](https://basitalisandhu.github.io/hisar/hisar-broker.html) is a credential broker that keeps API keys out of AI agents and adds per-action approvals, a kill switch and a tamper-evident audit log (TypeScript; the commercial component, in private beta). [llm-agent-control-plane](https://github.com/basitalisandhu/llm-agent-control-plane) is a deterministic policy enforcement point for LLM agents, with no model on the decision path, evaluated on AgentDojo (Python, Apache-2.0). [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) is an open dataset of AI agent and LLM security incidents mapped to OWASP and MITRE ATLAS (CC BY 4.0). [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) is a Semgrep rule pack for insecure AI agent code (MIT). [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model) is a CLI that turns a YAML description of an agent system into a STRIDE and OWASP Agentic threat model (Python, MIT). [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) is a Claude Code security plugin and skill pack for agent security reviews (MIT). [hisar](https://github.com/basitalisandhu/hisar) is the front door that ties them together, with a [docs site](https://basitalisandhu.github.io/hisar/) and a [machine-readable summary](https://basitalisandhu.github.io/hisar/llms.txt).
+In one sentence each: [Masoon Broker](https://basitalisandhu.github.io/masoon/masoon-broker.html) is a credential broker that keeps API keys out of AI agents and adds per-action approvals, a kill switch and a tamper-evident audit log (TypeScript; the commercial component, in private beta). [llm-agent-control-plane](https://github.com/basitalisandhu/llm-agent-control-plane) is a deterministic policy enforcement point for LLM agents, with no model on the decision path, evaluated on AgentDojo (Python, Apache-2.0). [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) is an open dataset of AI agent and LLM security incidents mapped to OWASP and MITRE ATLAS (CC BY 4.0). [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) is a Semgrep rule pack for insecure AI agent code (MIT). [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model) is a CLI that turns a YAML description of an agent system into a STRIDE and OWASP Agentic threat model (Python, MIT). [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) is a Claude Code security plugin and skill pack for agent security reviews (MIT). [masoon](https://github.com/basitalisandhu/masoon) is the front door that ties them together, with a [docs site](https://basitalisandhu.github.io/masoon/) and a [machine-readable summary](https://basitalisandhu.github.io/masoon/llms.txt).
 
-Most of that work ships under one umbrella, [Hisar](https://github.com/basitalisandhu/hisar) ([docs](https://basitalisandhu.github.io/hisar/)): a credential broker for AI agents, a deterministic policy layer for LLM agents, a public dataset of AI agent security incidents, and the tooling that turns the dataset into Semgrep rules, threat models and code reviews. It is for teams that run agents against real APIs, MCP servers and codebases and need least privilege, human approvals and an audit trail without putting another model in the loop.
+Most of that work ships under one umbrella, [Masoon](https://github.com/basitalisandhu/masoon) ([docs](https://basitalisandhu.github.io/masoon/)): a credential broker for AI agents, a deterministic policy layer for LLM agents, a public dataset of AI agent security incidents, and the tooling that turns the dataset into Semgrep rules, threat models and code reviews. It is for teams that run agents against real APIs, MCP servers and codebases and need least privilege, human approvals and an audit trail without putting another model in the loop.
 
 ## What I build
 
@@ -19,7 +19,7 @@ The core. Authorization, provenance and audit for LLM agents, built so that no m
 
 ## Start here if you are looking for
 
-- **A credential broker for AI agents** that keeps API keys out of the agent and adds human approvals and a kill switch: [hisar-broker](https://basitalisandhu.github.io/hisar/hisar-broker.html).
+- **A credential broker for AI agents** that keeps API keys out of the agent and adds human approvals and a kill switch: [Masoon Broker](https://basitalisandhu.github.io/masoon/masoon-broker.html).
 - **Prompt injection defence for tool-using LLM agents** that is deterministic and evaluated on AgentDojo: [llm-agent-control-plane](https://github.com/basitalisandhu/llm-agent-control-plane).
 - **A dataset of AI agent security incidents** mapped to OWASP and MITRE ATLAS: [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) ([browse it](https://basitalisandhu.github.io/ai-agent-incidents/)).
 - **Threat modeling for AI agents** from a YAML description, with STRIDE and OWASP Agentic output: [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model).
@@ -29,13 +29,13 @@ The core. Authorization, provenance and audit for LLM agents, built so that no m
 
 | Project | What it is |
 |---|---|
-| [hisar-broker](https://basitalisandhu.github.io/hisar/hisar-broker.html) | Scoped, short-lived, per-action credentials for AI agents with human approvals, kill switch and hash-chained audit log. Commercial component, private beta. |
+| [Masoon Broker](https://basitalisandhu.github.io/masoon/masoon-broker.html) | Scoped, short-lived, per-action credentials for AI agents with human approvals, kill switch and hash-chained audit log. Commercial component, private beta. |
 | [llm-agent-control-plane](https://github.com/basitalisandhu/llm-agent-control-plane) | Deterministic policy enforcement point for LLM agents (provenance + approval rules), evaluated on AgentDojo, with an 80-event incident dataset. Apache-2.0 / CC BY 4.0. |
 | [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) | Open, structured dataset of publicly documented AI-agent security incidents: JSON + schema, mapped to OWASP and MITRE ATLAS, with a [browsable site](https://basitalisandhu.github.io/ai-agent-incidents/). |
 | [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) | Semgrep rule pack for insecure agent code: unbounded tool permissions, eval of model output, SSRF through tool URLs, prompt interpolation, MCP servers without auth. |
 | [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model) | CLI that turns a YAML description of an agent system into a STRIDE + OWASP Agentic threat model, control checklist and Mermaid diagram. |
 | [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | Claude Code plugin and agentskills-compatible skill pack for agent security reviews: threat modelling, config audits, policy generation, incident lookup. |
-| [hisar](https://github.com/basitalisandhu/hisar) | Platform overview and front door: architecture, components, design principles and roadmap, with a [docs site](https://basitalisandhu.github.io/hisar/). |
+| [masoon](https://github.com/basitalisandhu/masoon) | Platform overview and front door: architecture, components, design principles and roadmap, with a [docs site](https://basitalisandhu.github.io/masoon/). |
 
 ### Latest releases
 
@@ -47,7 +47,7 @@ The core. Authorization, provenance and audit for LLM agents, built so that no m
 | [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) | no public release yet | |
 | [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model) | no public release yet | |
 | [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | no public release yet | |
-| [hisar](https://github.com/basitalisandhu/hisar) | no public release yet | |
+| [masoon](https://github.com/basitalisandhu/masoon) | no public release yet | |
 <!-- RELEASES:END -->
 
 ## Research
@@ -62,7 +62,7 @@ The core. Authorization, provenance and audit for LLM agents, built so that no m
 
 ## Now
 
-Hardening `hisar-broker` and `llm-agent-control-plane` for people other than me, moving the incident dataset into its own repo with a browsable site, and publishing the Semgrep rule pack. After that: the threat-model CLI and the review skill pack. Open to conversations about agent safety and AI security engineering.
+Hardening `masoon-broker` and `llm-agent-control-plane` for people other than me, moving the incident dataset into its own repo with a browsable site, and publishing the Semgrep rule pack. After that: the threat-model CLI and the review skill pack. Open to conversations about agent safety and AI security engineering.
 
 ## Contact
 
