@@ -45,7 +45,7 @@ The core. Authorization, provenance and audit for LLM agents, built so that no m
 | [llm-agent-control-plane](https://github.com/basitalisandhu/llm-agent-control-plane) | no public release yet | |
 | [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) | no public release yet | |
 | [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) | no public release yet | |
-| [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model) | no public release yet | |
+| [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model) | [v0.1.0](https://github.com/basitalisandhu/agent-threat-model/releases/tag/v0.1.0) | 2026-10-04 |
 | [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | no public release yet | |
 | [masoon](https://github.com/basitalisandhu/masoon) | no public release yet | |
 <!-- RELEASES:END -->
