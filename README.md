@@ -48,11 +48,11 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 <!-- RELEASES:START -->
 | Project | Latest release | Published |
 |---|---|---|
-| [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) | [v0.1.0](https://github.com/basitalisandhu/aws-security-skills/releases/tag/v0.1.0) | 2026-10-04 |
-| [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | [v0.1.0](https://github.com/basitalisandhu/repo-engineering-skills/releases/tag/v0.1.0) | 2026-10-04 |
-| [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | [v0.1.0](https://github.com/basitalisandhu/m365-governance-skills/releases/tag/v0.1.0) | 2026-10-04 |
-| [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | no public release yet | |
-| [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | no public release yet | |
+| [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) | [v0.2.0](https://github.com/basitalisandhu/aws-security-skills/releases/tag/v0.2.0) | 2026-10-04 |
+| [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | [v0.2.0](https://github.com/basitalisandhu/repo-engineering-skills/releases/tag/v0.2.0) | 2026-10-04 |
+| [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | [v0.2.0](https://github.com/basitalisandhu/m365-governance-skills/releases/tag/v0.2.0) | 2026-10-04 |
+| [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | [v0.1.0](https://github.com/basitalisandhu/claude-dev-skills/releases/tag/v0.1.0) | 2026-10-04 |
+| [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | [v0.1.0](https://github.com/basitalisandhu/agent-security-skills/releases/tag/v0.1.0) | 2026-10-04 |
 | [dev-mcp-servers](https://github.com/basitalisandhu/dev-mcp-servers) | [v0.1.0](https://github.com/basitalisandhu/dev-mcp-servers/releases/tag/v0.1.0) | 2026-10-04 |
 | [mcp-server-template](https://github.com/basitalisandhu/mcp-server-template) | [v0.1.0](https://github.com/basitalisandhu/mcp-server-template/releases/tag/v0.1.0) | 2026-10-04 |
 | [mcp-tools-lint](https://github.com/basitalisandhu/mcp-tools-lint) | [v0.1.0](https://github.com/basitalisandhu/mcp-tools-lint/releases/tag/v0.1.0) | 2026-10-04 |
@@ -61,8 +61,8 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | [claude-mcp-allow](https://github.com/basitalisandhu/claude-mcp-allow) | [v0.1.0](https://github.com/basitalisandhu/claude-mcp-allow/releases/tag/v0.1.0) | 2026-10-04 |
 | [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model) | [v0.1.0](https://github.com/basitalisandhu/agent-threat-model/releases/tag/v0.1.0) | 2026-10-04 |
 | [agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [v0.1.0](https://github.com/basitalisandhu/agent-config-audit/releases/tag/v0.1.0) | 2026-10-04 |
-| [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) | no public release yet | |
-| [security-actions](https://github.com/basitalisandhu/security-actions) | no public release yet | |
+| [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) | [v0.1.0](https://github.com/basitalisandhu/agentic-semgrep-rules/releases/tag/v0.1.0) | 2026-10-04 |
+| [security-actions](https://github.com/basitalisandhu/security-actions) | [v0.1.0](https://github.com/basitalisandhu/security-actions/releases/tag/v0.1.0) | 2026-10-04 |
 | [cc-hooks](https://github.com/basitalisandhu/cc-hooks) | [v0.1.0](https://github.com/basitalisandhu/cc-hooks/releases/tag/v0.1.0) | 2026-10-04 |
 | [llms-txt-gen](https://github.com/basitalisandhu/llms-txt-gen) | [v0.1.0](https://github.com/basitalisandhu/llms-txt-gen/releases/tag/v0.1.0) | 2026-10-04 |
 | [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) | no public release yet | |
