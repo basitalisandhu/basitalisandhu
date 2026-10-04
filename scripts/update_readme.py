@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Refresh the "Latest releases" block in the profile README.
 
-Fetches the latest release of each portfolio repository from the public GitHub
+Fetches the latest release of each public repository from the public GitHub
 API and rewrites the text between the RELEASES:START and RELEASES:END markers.
 
 Rules this script follows:
@@ -29,12 +29,25 @@ from pathlib import Path
 
 OWNER = "basitalisandhu"
 REPOS = [
-    "llm-agent-control-plane",
-    "ai-agent-incidents",
-    "agentic-semgrep-rules",
-    "agent-threat-model",
+    "aws-security-skills",
+    "repo-engineering-skills",
+    "m365-governance-skills",
+    "claude-dev-skills",
     "agent-security-skills",
-    "masoon",
+    "dev-mcp-servers",
+    "mcp-server-template",
+    "mcp-tools-lint",
+    "mcp-auth-doctor",
+    "mcp-egress",
+    "claude-mcp-allow",
+    "agent-threat-model",
+    "agent-config-audit",
+    "agentic-semgrep-rules",
+    "security-actions",
+    "cc-hooks",
+    "llms-txt-gen",
+    "ai-agent-incidents",
+    "awesome-agent-security",
 ]
 START = "<!-- RELEASES:START -->"
 END = "<!-- RELEASES:END -->"
