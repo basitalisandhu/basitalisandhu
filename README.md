@@ -66,7 +66,7 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | [mcp-tools-lint](https://github.com/basitalisandhu/mcp-tools-lint) | [v0.1.1](https://github.com/basitalisandhu/mcp-tools-lint/releases/tag/v0.1.1) | 2026-10-05 |
 | [mcp-auth-doctor](https://github.com/basitalisandhu/mcp-auth-doctor) | [v0.1.0](https://github.com/basitalisandhu/mcp-auth-doctor/releases/tag/v0.1.0) | 2026-10-04 |
 | [mcp-egress](https://github.com/basitalisandhu/mcp-egress) | [v0.1.0](https://github.com/basitalisandhu/mcp-egress/releases/tag/v0.1.0) | 2026-10-04 |
-| [claude-mcp-allow](https://github.com/basitalisandhu/claude-mcp-allow) | [v0.1.0](https://github.com/basitalisandhu/claude-mcp-allow/releases/tag/v0.1.0) | 2026-10-04 |
+| [claude-mcp-allow](https://github.com/basitalisandhu/claude-mcp-allow) | [v0.1.1](https://github.com/basitalisandhu/claude-mcp-allow/releases/tag/v0.1.1) | 2026-10-05 |
 | [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model) | [v0.1.0](https://github.com/basitalisandhu/agent-threat-model/releases/tag/v0.1.0) | 2026-10-04 |
 | [agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [v0.1.0](https://github.com/basitalisandhu/agent-config-audit/releases/tag/v0.1.0) | 2026-10-04 |
 | [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) | [v0.1.0](https://github.com/basitalisandhu/agentic-semgrep-rules/releases/tag/v0.1.0) | 2026-10-04 |
@@ -74,7 +74,7 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | [cc-hooks](https://github.com/basitalisandhu/cc-hooks) | [v0.1.0](https://github.com/basitalisandhu/cc-hooks/releases/tag/v0.1.0) | 2026-10-04 |
 | [cc-plugin-lock](https://github.com/basitalisandhu/cc-plugin-lock) | [v0.1.0](https://github.com/basitalisandhu/cc-plugin-lock/releases/tag/v0.1.0) | 2026-10-04 |
 | [claude-perm-sim](https://github.com/basitalisandhu/claude-perm-sim) | [v0.1.0](https://github.com/basitalisandhu/claude-perm-sim/releases/tag/v0.1.0) | 2026-10-04 |
-| [llms-txt-gen](https://github.com/basitalisandhu/llms-txt-gen) | [v0.1.0](https://github.com/basitalisandhu/llms-txt-gen/releases/tag/v0.1.0) | 2026-10-04 |
+| [llms-txt-gen](https://github.com/basitalisandhu/llms-txt-gen) | [v0.1.1](https://github.com/basitalisandhu/llms-txt-gen/releases/tag/v0.1.1) | 2026-10-05 |
 | [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) | no public release yet | |
 | [awesome-agent-security](https://github.com/basitalisandhu/awesome-agent-security) | no public release yet | |
 <!-- RELEASES:END -->
