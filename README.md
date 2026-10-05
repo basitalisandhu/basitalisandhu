@@ -62,8 +62,8 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | [v0.1.1](https://github.com/basitalisandhu/claude-dev-skills/releases/tag/v0.1.1) | 2026-10-04 |
 | [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | [v0.1.1](https://github.com/basitalisandhu/agent-security-skills/releases/tag/v0.1.1) | 2026-10-04 |
 | [dev-mcp-servers](https://github.com/basitalisandhu/dev-mcp-servers) | [v0.1.0](https://github.com/basitalisandhu/dev-mcp-servers/releases/tag/v0.1.0) | 2026-10-04 |
-| [mcp-server-template](https://github.com/basitalisandhu/mcp-server-template) | [v0.1.0](https://github.com/basitalisandhu/mcp-server-template/releases/tag/v0.1.0) | 2026-10-04 |
-| [mcp-tools-lint](https://github.com/basitalisandhu/mcp-tools-lint) | [v0.1.0](https://github.com/basitalisandhu/mcp-tools-lint/releases/tag/v0.1.0) | 2026-10-04 |
+| [mcp-server-template](https://github.com/basitalisandhu/mcp-server-template) | [v0.1.1](https://github.com/basitalisandhu/mcp-server-template/releases/tag/v0.1.1) | 2026-10-05 |
+| [mcp-tools-lint](https://github.com/basitalisandhu/mcp-tools-lint) | [v0.1.1](https://github.com/basitalisandhu/mcp-tools-lint/releases/tag/v0.1.1) | 2026-10-05 |
 | [mcp-auth-doctor](https://github.com/basitalisandhu/mcp-auth-doctor) | [v0.1.0](https://github.com/basitalisandhu/mcp-auth-doctor/releases/tag/v0.1.0) | 2026-10-04 |
 | [mcp-egress](https://github.com/basitalisandhu/mcp-egress) | [v0.1.0](https://github.com/basitalisandhu/mcp-egress/releases/tag/v0.1.0) | 2026-10-04 |
 | [claude-mcp-allow](https://github.com/basitalisandhu/claude-mcp-allow) | [v0.1.0](https://github.com/basitalisandhu/claude-mcp-allow/releases/tag/v0.1.0) | 2026-10-04 |
