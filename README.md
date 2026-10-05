@@ -57,10 +57,10 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 |---|---|---|
 | [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) | [v0.2.0](https://github.com/basitalisandhu/aws-security-skills/releases/tag/v0.2.0) | 2026-10-04 |
 | [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | [v0.3.0](https://github.com/basitalisandhu/repo-engineering-skills/releases/tag/v0.3.0) | 2026-10-04 |
-| [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | [v0.2.0](https://github.com/basitalisandhu/m365-governance-skills/releases/tag/v0.2.0) | 2026-10-04 |
-| [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | [v0.1.0](https://github.com/basitalisandhu/compliance-evidence-skills/releases/tag/v0.1.0) | 2026-10-04 |
-| [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | [v0.1.0](https://github.com/basitalisandhu/claude-dev-skills/releases/tag/v0.1.0) | 2026-10-04 |
-| [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | [v0.1.0](https://github.com/basitalisandhu/agent-security-skills/releases/tag/v0.1.0) | 2026-10-04 |
+| [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | [v0.2.1](https://github.com/basitalisandhu/m365-governance-skills/releases/tag/v0.2.1) | 2026-10-04 |
+| [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | [v0.1.1](https://github.com/basitalisandhu/compliance-evidence-skills/releases/tag/v0.1.1) | 2026-10-04 |
+| [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | [v0.1.1](https://github.com/basitalisandhu/claude-dev-skills/releases/tag/v0.1.1) | 2026-10-04 |
+| [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | [v0.1.1](https://github.com/basitalisandhu/agent-security-skills/releases/tag/v0.1.1) | 2026-10-04 |
 | [dev-mcp-servers](https://github.com/basitalisandhu/dev-mcp-servers) | [v0.1.0](https://github.com/basitalisandhu/dev-mcp-servers/releases/tag/v0.1.0) | 2026-10-04 |
 | [mcp-server-template](https://github.com/basitalisandhu/mcp-server-template) | [v0.1.0](https://github.com/basitalisandhu/mcp-server-template/releases/tag/v0.1.0) | 2026-10-04 |
 | [mcp-tools-lint](https://github.com/basitalisandhu/mcp-tools-lint) | [v0.1.0](https://github.com/basitalisandhu/mcp-tools-lint/releases/tag/v0.1.0) | 2026-10-04 |
