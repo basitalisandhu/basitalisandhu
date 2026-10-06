@@ -56,10 +56,10 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | Project | Latest release | Published |
 |---|---|---|
 | [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) | [v0.3.0](https://github.com/basitalisandhu/aws-security-skills/releases/tag/v0.3.0) | 2026-10-05 |
-| [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | [v0.3.1](https://github.com/basitalisandhu/repo-engineering-skills/releases/tag/v0.3.1) | 2026-10-05 |
+| [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | [v0.4.0](https://github.com/basitalisandhu/repo-engineering-skills/releases/tag/v0.4.0) | 2026-10-05 |
 | [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | [v0.3.0](https://github.com/basitalisandhu/m365-governance-skills/releases/tag/v0.3.0) | 2026-10-05 |
-| [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | [v0.1.2](https://github.com/basitalisandhu/compliance-evidence-skills/releases/tag/v0.1.2) | 2026-10-05 |
-| [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | [v0.1.2](https://github.com/basitalisandhu/claude-dev-skills/releases/tag/v0.1.2) | 2026-10-05 |
+| [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | [v0.2.0](https://github.com/basitalisandhu/compliance-evidence-skills/releases/tag/v0.2.0) | 2026-10-05 |
+| [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | [v0.2.1](https://github.com/basitalisandhu/claude-dev-skills/releases/tag/v0.2.1) | 2026-10-05 |
 | [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | [v0.2.0](https://github.com/basitalisandhu/agent-security-skills/releases/tag/v0.2.0) | 2026-10-05 |
 | [dev-mcp-servers](https://github.com/basitalisandhu/dev-mcp-servers) | [v0.1.1](https://github.com/basitalisandhu/dev-mcp-servers/releases/tag/v0.1.1) | 2026-10-05 |
 | [mcp-server-template](https://github.com/basitalisandhu/mcp-server-template) | [v0.1.1](https://github.com/basitalisandhu/mcp-server-template/releases/tag/v0.1.1) | 2026-10-05 |
