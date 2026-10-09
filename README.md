@@ -2,6 +2,16 @@
 
 I am a cloud security and AI agent security engineer. I build tooling for AWS guardrails, Microsoft 365 governance, MCP servers and Claude Code skills. Everything below is open source and each repository stands on its own.
 
+## Start here: agent-off-switch
+
+**[agent-off-switch](https://github.com/basitalisandhu/agent-off-switch)** finds every AI agent identity in Microsoft 365, AWS and GitHub, ranks what each one can reach, and prints an ordered runbook to switch it off. It runs offline on saved read-only exports and never executes the commands it prints.
+
+```bash
+aos review examples/demo-tenant
+```
+
+The demo tenant ships with the repository: four agent identities nobody owns, including an AWS role with `*` on `*` and a mail agent with tenant-wide `Mail.ReadWrite`.
+
 ## Claude Code skill packs
 
 | Repository | What it is |
