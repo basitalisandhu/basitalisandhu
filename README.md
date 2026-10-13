@@ -67,7 +67,7 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 |---|---|---|
 | [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) | [v0.4.0](https://github.com/basitalisandhu/aws-security-skills/releases/tag/v0.4.0) | 2026-10-09 |
 | [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | [v0.4.1](https://github.com/basitalisandhu/repo-engineering-skills/releases/tag/v0.4.1) | 2026-10-09 |
-| [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | [v0.4.0](https://github.com/basitalisandhu/m365-governance-skills/releases/tag/v0.4.0) | 2026-10-09 |
+| [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | [v0.5.0](https://github.com/basitalisandhu/m365-governance-skills/releases/tag/v0.5.0) | 2026-10-13 |
 | [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | [v0.3.0](https://github.com/basitalisandhu/compliance-evidence-skills/releases/tag/v0.3.0) | 2026-10-09 |
 | [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | [v0.3.0](https://github.com/basitalisandhu/claude-dev-skills/releases/tag/v0.3.0) | 2026-10-09 |
 | [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | [v0.3.0](https://github.com/basitalisandhu/agent-security-skills/releases/tag/v0.3.0) | 2026-10-09 |
