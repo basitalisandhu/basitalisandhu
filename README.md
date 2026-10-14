@@ -71,7 +71,7 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | [v0.3.0](https://github.com/basitalisandhu/compliance-evidence-skills/releases/tag/v0.3.0) | 2026-10-09 |
 | [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | [v0.3.0](https://github.com/basitalisandhu/claude-dev-skills/releases/tag/v0.3.0) | 2026-10-09 |
 | [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | [v0.3.0](https://github.com/basitalisandhu/agent-security-skills/releases/tag/v0.3.0) | 2026-10-09 |
-| [dev-mcp-servers](https://github.com/basitalisandhu/dev-mcp-servers) | [v0.2.0](https://github.com/basitalisandhu/dev-mcp-servers/releases/tag/v0.2.0) | 2026-10-09 |
+| [dev-mcp-servers](https://github.com/basitalisandhu/dev-mcp-servers) | [v0.2.1](https://github.com/basitalisandhu/dev-mcp-servers/releases/tag/v0.2.1) | 2026-10-13 |
 | [mcp-server-template](https://github.com/basitalisandhu/mcp-server-template) | [v0.2.0](https://github.com/basitalisandhu/mcp-server-template/releases/tag/v0.2.0) | 2026-10-09 |
 | [mcp-tools-lint](https://github.com/basitalisandhu/mcp-tools-lint) | [v0.2.0](https://github.com/basitalisandhu/mcp-tools-lint/releases/tag/v0.2.0) | 2026-10-09 |
 | [mcp-auth-doctor](https://github.com/basitalisandhu/mcp-auth-doctor) | [v0.2.0](https://github.com/basitalisandhu/mcp-auth-doctor/releases/tag/v0.2.0) | 2026-10-09 |
@@ -85,7 +85,7 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | [cc-plugin-lock](https://github.com/basitalisandhu/cc-plugin-lock) | [v0.2.0](https://github.com/basitalisandhu/cc-plugin-lock/releases/tag/v0.2.0) | 2026-10-09 |
 | [claude-perm-sim](https://github.com/basitalisandhu/claude-perm-sim) | [v0.2.0](https://github.com/basitalisandhu/claude-perm-sim/releases/tag/v0.2.0) | 2026-10-09 |
 | [llms-txt-gen](https://github.com/basitalisandhu/llms-txt-gen) | [v0.2.0](https://github.com/basitalisandhu/llms-txt-gen/releases/tag/v0.2.0) | 2026-10-09 |
-| [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) | no public release yet | |
+| [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) | [v1.0.0](https://github.com/basitalisandhu/ai-agent-incidents/releases/tag/v1.0.0) | 2026-10-13 |
 | [awesome-agent-security](https://github.com/basitalisandhu/awesome-agent-security) | no public release yet | |
 <!-- RELEASES:END -->
 
