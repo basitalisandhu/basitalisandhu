@@ -85,39 +85,39 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | Project | Latest release | Published |
 |---|---|---|
 | [agent-off-switch](https://github.com/basitalisandhu/agent-off-switch) | [v0.1.0](https://github.com/basitalisandhu/agent-off-switch/releases/tag/v0.1.0) | 2026-10-09 |
-| [agent-skills-state-2026](https://github.com/basitalisandhu/agent-skills-state-2026) | [v1.0.0](https://github.com/basitalisandhu/agent-skills-state-2026/releases/tag/v1.0.0) | 2026-10-13 |
+| [agent-skills-state-2026](https://github.com/basitalisandhu/agent-skills-state-2026) | [v1.1.0](https://github.com/basitalisandhu/agent-skills-state-2026/releases/tag/v1.1.0) | 2026-10-16 |
 | [skill-scan-gate](https://github.com/basitalisandhu/skill-scan-gate) | [v0.3.0](https://github.com/basitalisandhu/skill-scan-gate/releases/tag/v0.3.0) | 2026-10-13 |
-| [claude-skills](https://github.com/basitalisandhu/claude-skills) | [v0.2.0](https://github.com/basitalisandhu/claude-skills/releases/tag/v0.2.0) | 2026-10-13 |
+| [claude-skills](https://github.com/basitalisandhu/claude-skills) | [v0.3.0](https://github.com/basitalisandhu/claude-skills/releases/tag/v0.3.0) | 2026-10-16 |
 | [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) | [v0.4.0](https://github.com/basitalisandhu/aws-security-skills/releases/tag/v0.4.0) | 2026-10-09 |
 | [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | [v0.4.1](https://github.com/basitalisandhu/repo-engineering-skills/releases/tag/v0.4.1) | 2026-10-09 |
 | [m365-governance-skills](https://github.com/basitalisandhu/m365-governance-skills) | [v0.5.0](https://github.com/basitalisandhu/m365-governance-skills/releases/tag/v0.5.0) | 2026-10-13 |
-| [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | [v0.3.0](https://github.com/basitalisandhu/compliance-evidence-skills/releases/tag/v0.3.0) | 2026-10-09 |
+| [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) | [v0.4.0](https://github.com/basitalisandhu/compliance-evidence-skills/releases/tag/v0.4.0) | 2026-10-16 |
 | [claude-dev-skills](https://github.com/basitalisandhu/claude-dev-skills) | [v0.3.0](https://github.com/basitalisandhu/claude-dev-skills/releases/tag/v0.3.0) | 2026-10-09 |
-| [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | [v0.3.0](https://github.com/basitalisandhu/agent-security-skills/releases/tag/v0.3.0) | 2026-10-09 |
-| [ways-of-working-skills](https://github.com/basitalisandhu/ways-of-working-skills) | [v0.2.1](https://github.com/basitalisandhu/ways-of-working-skills/releases/tag/v0.2.1) | 2026-10-05 |
+| [agent-security-skills](https://github.com/basitalisandhu/agent-security-skills) | [v0.4.0](https://github.com/basitalisandhu/agent-security-skills/releases/tag/v0.4.0) | 2026-10-16 |
+| [ways-of-working-skills](https://github.com/basitalisandhu/ways-of-working-skills) | [v0.3.0](https://github.com/basitalisandhu/ways-of-working-skills/releases/tag/v0.3.0) | 2026-10-16 |
 | [github-manager-skills](https://github.com/basitalisandhu/github-manager-skills) | [v0.3.0](https://github.com/basitalisandhu/github-manager-skills/releases/tag/v0.3.0) | 2026-10-09 |
 | [mac-maintenance-skills](https://github.com/basitalisandhu/mac-maintenance-skills) | [v0.1.2](https://github.com/basitalisandhu/mac-maintenance-skills/releases/tag/v0.1.2) | 2026-10-05 |
-| [claude-code-tooling-skills](https://github.com/basitalisandhu/claude-code-tooling-skills) | [v0.1.1](https://github.com/basitalisandhu/claude-code-tooling-skills/releases/tag/v0.1.1) | 2026-10-09 |
+| [claude-code-tooling-skills](https://github.com/basitalisandhu/claude-code-tooling-skills) | [v0.2.0](https://github.com/basitalisandhu/claude-code-tooling-skills/releases/tag/v0.2.0) | 2026-10-16 |
 | [agent-identity-governance-skills](https://github.com/basitalisandhu/agent-identity-governance-skills) | [v0.1.1](https://github.com/basitalisandhu/agent-identity-governance-skills/releases/tag/v0.1.1) | 2026-10-05 |
 | [dev-mcp-servers](https://github.com/basitalisandhu/dev-mcp-servers) | [v0.2.1](https://github.com/basitalisandhu/dev-mcp-servers/releases/tag/v0.2.1) | 2026-10-13 |
 | [mcp-server-template](https://github.com/basitalisandhu/mcp-server-template) | [v0.2.0](https://github.com/basitalisandhu/mcp-server-template/releases/tag/v0.2.0) | 2026-10-09 |
 | [mcp-tools-lint](https://github.com/basitalisandhu/mcp-tools-lint) | [v0.2.0](https://github.com/basitalisandhu/mcp-tools-lint/releases/tag/v0.2.0) | 2026-10-09 |
-| [mcp-auth-doctor](https://github.com/basitalisandhu/mcp-auth-doctor) | [v0.2.0](https://github.com/basitalisandhu/mcp-auth-doctor/releases/tag/v0.2.0) | 2026-10-09 |
+| [mcp-auth-doctor](https://github.com/basitalisandhu/mcp-auth-doctor) | [v0.3.0](https://github.com/basitalisandhu/mcp-auth-doctor/releases/tag/v0.3.0) | 2026-10-16 |
 | [mcp-egress](https://github.com/basitalisandhu/mcp-egress) | [v0.1.1](https://github.com/basitalisandhu/mcp-egress/releases/tag/v0.1.1) | 2026-10-05 |
-| [claude-mcp-allow](https://github.com/basitalisandhu/claude-mcp-allow) | [v0.2.0](https://github.com/basitalisandhu/claude-mcp-allow/releases/tag/v0.2.0) | 2026-10-09 |
-| [mcp-rc-check](https://github.com/basitalisandhu/mcp-rc-check) | [v0.3.0](https://github.com/basitalisandhu/mcp-rc-check/releases/tag/v0.3.0) | 2026-10-09 |
+| [claude-mcp-allow](https://github.com/basitalisandhu/claude-mcp-allow) | [v0.3.0](https://github.com/basitalisandhu/claude-mcp-allow/releases/tag/v0.3.0) | 2026-10-16 |
+| [mcp-rc-check](https://github.com/basitalisandhu/mcp-rc-check) | [v0.4.0](https://github.com/basitalisandhu/mcp-rc-check/releases/tag/v0.4.0) | 2026-10-16 |
 | [agentdojo-mcp](https://github.com/basitalisandhu/agentdojo-mcp) | [v0.2.0](https://github.com/basitalisandhu/agentdojo-mcp/releases/tag/v0.2.0) | 2026-10-09 |
 | [garak-mcp-probes](https://github.com/basitalisandhu/garak-mcp-probes) | [v0.1.0](https://github.com/basitalisandhu/garak-mcp-probes/releases/tag/v0.1.0) | 2026-10-05 |
-| [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model) | [v0.2.0](https://github.com/basitalisandhu/agent-threat-model/releases/tag/v0.2.0) | 2026-10-09 |
-| [agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [v0.2.0](https://github.com/basitalisandhu/agent-config-audit/releases/tag/v0.2.0) | 2026-10-09 |
-| [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) | [v0.1.0](https://github.com/basitalisandhu/agentic-semgrep-rules/releases/tag/v0.1.0) | 2026-10-04 |
-| [security-actions](https://github.com/basitalisandhu/security-actions) | [v0.1.0](https://github.com/basitalisandhu/security-actions/releases/tag/v0.1.0) | 2026-10-04 |
-| [cc-hooks](https://github.com/basitalisandhu/cc-hooks) | [v0.1.1](https://github.com/basitalisandhu/cc-hooks/releases/tag/v0.1.1) | 2026-10-05 |
-| [cc-plugin-lock](https://github.com/basitalisandhu/cc-plugin-lock) | [v0.2.0](https://github.com/basitalisandhu/cc-plugin-lock/releases/tag/v0.2.0) | 2026-10-09 |
-| [claude-perm-sim](https://github.com/basitalisandhu/claude-perm-sim) | [v0.2.0](https://github.com/basitalisandhu/claude-perm-sim/releases/tag/v0.2.0) | 2026-10-09 |
+| [agent-threat-model](https://github.com/basitalisandhu/agent-threat-model) | [v0.3.0](https://github.com/basitalisandhu/agent-threat-model/releases/tag/v0.3.0) | 2026-10-16 |
+| [agent-config-audit](https://github.com/basitalisandhu/agent-config-audit) | [v0.3.0](https://github.com/basitalisandhu/agent-config-audit/releases/tag/v0.3.0) | 2026-10-16 |
+| [agentic-semgrep-rules](https://github.com/basitalisandhu/agentic-semgrep-rules) | [v0.2.0](https://github.com/basitalisandhu/agentic-semgrep-rules/releases/tag/v0.2.0) | 2026-10-16 |
+| [security-actions](https://github.com/basitalisandhu/security-actions) | [v0.2.0](https://github.com/basitalisandhu/security-actions/releases/tag/v0.2.0) | 2026-10-16 |
+| [cc-hooks](https://github.com/basitalisandhu/cc-hooks) | [v0.1.2](https://github.com/basitalisandhu/cc-hooks/releases/tag/v0.1.2) | 2026-10-16 |
+| [cc-plugin-lock](https://github.com/basitalisandhu/cc-plugin-lock) | [v0.3.0](https://github.com/basitalisandhu/cc-plugin-lock/releases/tag/v0.3.0) | 2026-10-16 |
+| [claude-perm-sim](https://github.com/basitalisandhu/claude-perm-sim) | [v0.3.0](https://github.com/basitalisandhu/claude-perm-sim/releases/tag/v0.3.0) | 2026-10-16 |
 | [llms-txt-gen](https://github.com/basitalisandhu/llms-txt-gen) | [v0.2.0](https://github.com/basitalisandhu/llms-txt-gen/releases/tag/v0.2.0) | 2026-10-09 |
 | [scp-guardrails](https://github.com/basitalisandhu/scp-guardrails) | [v0.2.0](https://github.com/basitalisandhu/scp-guardrails/releases/tag/v0.2.0) | 2026-10-13 |
-| [spotlighting](https://github.com/basitalisandhu/spotlighting) | [v0.2.0](https://github.com/basitalisandhu/spotlighting/releases/tag/v0.2.0) | 2026-10-09 |
+| [spotlighting](https://github.com/basitalisandhu/spotlighting) | [v0.3.0](https://github.com/basitalisandhu/spotlighting/releases/tag/v0.3.0) | 2026-10-16 |
 | [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) | [v1.0.0](https://github.com/basitalisandhu/ai-agent-incidents/releases/tag/v1.0.0) | 2026-10-13 |
 | [awesome-agent-security](https://github.com/basitalisandhu/awesome-agent-security) | no public release yet | |
 <!-- RELEASES:END -->
