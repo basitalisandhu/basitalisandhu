@@ -84,9 +84,9 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 <!-- RELEASES:START -->
 | Project | Latest release | Published |
 |---|---|---|
-| [agent-off-switch](https://github.com/basitalisandhu/agent-off-switch) | [v0.1.1](https://github.com/basitalisandhu/agent-off-switch/releases/tag/v0.1.1) | 2026-10-18 |
+| [agent-off-switch](https://github.com/basitalisandhu/agent-off-switch) | [v0.1.2](https://github.com/basitalisandhu/agent-off-switch/releases/tag/v0.1.2) | 2026-10-28 |
 | [agent-skills-state-2026](https://github.com/basitalisandhu/agent-skills-state-2026) | [v1.3.0](https://github.com/basitalisandhu/agent-skills-state-2026/releases/tag/v1.3.0) | 2026-10-26 |
-| [skill-scan-gate](https://github.com/basitalisandhu/skill-scan-gate) | [v0.4.0](https://github.com/basitalisandhu/skill-scan-gate/releases/tag/v0.4.0) | 2026-10-20 |
+| [skill-scan-gate](https://github.com/basitalisandhu/skill-scan-gate) | [v0.5.0](https://github.com/basitalisandhu/skill-scan-gate/releases/tag/v0.5.0) | 2026-10-28 |
 | [claude-skills](https://github.com/basitalisandhu/claude-skills) | [v0.6.1](https://github.com/basitalisandhu/claude-skills/releases/tag/v0.6.1) | 2026-10-26 |
 | [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) | [v0.6.1](https://github.com/basitalisandhu/aws-security-skills/releases/tag/v0.6.1) | 2026-10-26 |
 | [repo-engineering-skills](https://github.com/basitalisandhu/repo-engineering-skills) | [v0.6.0](https://github.com/basitalisandhu/repo-engineering-skills/releases/tag/v0.6.0) | 2026-10-26 |
@@ -116,8 +116,8 @@ Packages: published packages are listed at [github.com/basitalisandhu?tab=packag
 | [cc-plugin-lock](https://github.com/basitalisandhu/cc-plugin-lock) | [v0.3.0](https://github.com/basitalisandhu/cc-plugin-lock/releases/tag/v0.3.0) | 2026-10-16 |
 | [claude-perm-sim](https://github.com/basitalisandhu/claude-perm-sim) | [v0.3.0](https://github.com/basitalisandhu/claude-perm-sim/releases/tag/v0.3.0) | 2026-10-16 |
 | [llms-txt-gen](https://github.com/basitalisandhu/llms-txt-gen) | [v0.3.0](https://github.com/basitalisandhu/llms-txt-gen/releases/tag/v0.3.0) | 2026-10-20 |
-| [scp-guardrails](https://github.com/basitalisandhu/scp-guardrails) | [v0.3.0](https://github.com/basitalisandhu/scp-guardrails/releases/tag/v0.3.0) | 2026-10-20 |
-| [spotlighting](https://github.com/basitalisandhu/spotlighting) | [v0.3.0](https://github.com/basitalisandhu/spotlighting/releases/tag/v0.3.0) | 2026-10-16 |
+| [scp-guardrails](https://github.com/basitalisandhu/scp-guardrails) | [v0.4.0](https://github.com/basitalisandhu/scp-guardrails/releases/tag/v0.4.0) | 2026-10-28 |
+| [spotlighting](https://github.com/basitalisandhu/spotlighting) | [v0.4.0](https://github.com/basitalisandhu/spotlighting/releases/tag/v0.4.0) | 2026-10-28 |
 | [ai-agent-incidents](https://github.com/basitalisandhu/ai-agent-incidents) | [v1.1.0](https://github.com/basitalisandhu/ai-agent-incidents/releases/tag/v1.1.0) | 2026-10-18 |
 | [awesome-agent-security](https://github.com/basitalisandhu/awesome-agent-security) | [v0.1.0](https://github.com/basitalisandhu/awesome-agent-security/releases/tag/v0.1.0) | 2026-10-18 |
 <!-- RELEASES:END -->
